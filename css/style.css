@@ -179,7 +179,8 @@ a{
 	margin: 0px 5px;
 }
 .block_link {
-    background: linear-gradient(-45deg, #455397, #cfe187, #455397);
+	background: linear-gradient(-45deg, #4a4ddd, #65ebba, #37534c);	
+/*    background: linear-gradient(-45deg, #455397, #cfe187, #455397);  */
     padding: 5px;
     font-family: 'Gilroy-SemiBold';
     font-size: 20px;
